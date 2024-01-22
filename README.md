@@ -25,14 +25,14 @@ A API possui os seguintes endpoints:
 - `GET /users`: Obter todos os usuários.
 - `GET /users/{id}`: Obter um usuário específico por ID.
 - `POST /users`: Criar um novo usuário.
-- `PUT /users/{id}`: Atualizar um usuário existente.
+- `PUT /users`: Atualizar um usuário existente.
 - `DELETE /users/{id}`: Excluir um usuário.
 
 ### Departamentos
 - `GET /departments`: Obter todos os departamentos.
 - `GET /departments/{id}`: Obter um departamento específico por ID.
 - `POST /departments`: Criar um novo departamento.
-- `PUT /departments/{id}`: Atualizar um departamento existente.
+- `PUT /departments`: Atualizar um departamento existente.
 - `DELETE /departments/{id}`: Excluir um departamento.
 
 Adapte os endpoints conforme necessário para o seu domínio específico.
