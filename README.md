@@ -10,12 +10,8 @@ Este projeto é uma API para realizar operações CRUD (Create, Read, Update, De
 
 ## Configuração do Ambiente de Desenvolvimento
 1. Certifique-se de ter o Java e o Maven instalados em sua máquina.
-2. Configure um banco de dados MySQL e ajuste as configurações no arquivo `application.properties` conforme necessário.
-3. Clone este repositório em sua máquina local.
-
-## Configuração do Banco de Dados
-1. Crie o banco de dados do projeto.
-2. Atualize as configurações do banco de dados no arquivo `application.properties` com suas credenciais.
+2. Configure um banco de dados MySQL.
+3. Clone este repositório em sua máquina local e ajuste as configurações no arquivo `application.properties` conforme necessário.
 
 ## Execução da Aplicação
 1. Navegue até o diretório do projeto.
