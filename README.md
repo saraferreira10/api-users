@@ -14,7 +14,7 @@ Este projeto é uma API para realizar operações CRUD (Create, Read, Update, De
 3. Clone este repositório em sua máquina local.
 
 ## Configuração do Banco de Dados
-1. Execute o script SQL fornecido no diretório `src/main/resources/sql` para criar o esquema do banco de dados.
+1. Crie o banco de dados do projeto.
 2. Atualize as configurações do banco de dados no arquivo `application.properties` com suas credenciais.
 
 ## Execução da Aplicação
