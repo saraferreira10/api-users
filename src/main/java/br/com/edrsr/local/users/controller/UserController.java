@@ -51,7 +51,7 @@ public class UserController {
     }
 
     @PutMapping
-    public ResponseEntity<Object> updateByid(@RequestBody @Valid UserModel updatedUser) {
+    public ResponseEntity<Object> updateById(@RequestBody @Valid UserModel updatedUser) {
         try {
             return ResponseEntity.status(HttpStatus.OK).body(userService.updateById(updatedUser));
         } catch (EntityNotFoundException ex) {
